@@ -1,0 +1,14 @@
+{
+  "name": "leadflow-crm",
+  "version": "1.0.0",
+  "description": "MERN Stack CRM for BDA",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
