@@ -254,9 +254,3 @@ PORT=5000
 # 👨‍💻 Author
 
 ### Arunava Chakraborty
-
----
-
-# 📜 License
-
-This project was developed for internship assessment and educational purposes.
