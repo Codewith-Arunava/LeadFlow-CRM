@@ -20,7 +20,7 @@ The platform helps organizations efficiently track lead pipelines, manage client
 ---
 
 ## 📊 Dashboard
-- Total Leads Overview
+- Total Leads Overview 
 - Won Deals Statistics
 - Lost Deals Tracking
 - Pending Follow-ups
