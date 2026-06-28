@@ -6,8 +6,7 @@ const generateToken = (id) => {
     expiresIn: '30d',
   });
 }; 
-// @desc    Register a new user
-// @route   POST /api/auth/register
+// @desc    Register a new user 
 // @access  Public
 const registerUser = async (req, res) => {
   try {
