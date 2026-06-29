@@ -9,7 +9,7 @@ The platform helps organizations efficiently track lead pipelines, manage client
 ---   
   
 # 📌 Features   
-  
+   
 ## 🔐 Authentication System    
 - User Registration
 - User Login
