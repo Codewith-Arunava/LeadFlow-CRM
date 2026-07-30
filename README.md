@@ -1,6 +1,6 @@
 # 🚀 LeadFlow CRM    
  
-## Manufacturing Sales & Lead Pipeline Management System 
+## Manufacturing Sales & Lead Pipeline Management System  
  
 LeadFlow CRM is a modern full-stack MERN application designed for managing sales leads, client workflows, and Business Development Associate (BDA) team operations for a manufacturing company.
  
