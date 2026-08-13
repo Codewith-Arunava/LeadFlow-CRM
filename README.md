@@ -7,7 +7,7 @@ LeadFlow CRM is a modern full-stack MERN application designed for managing sales
 The platform helps organizations efficiently track lead pipelines, manage client communication, monitor sales performance, and improve workflow productivity through an intuitive dashboard and Kanban-based pipeline system.
   
 ---      
-    
+     
 # 📌 Features      
             
 ## 🔐 Authentication System       
