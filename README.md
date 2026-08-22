@@ -15,7 +15,7 @@ The platform helps organizations efficiently track lead pipelines, manage client
 - User Login   
 - JWT Authentication             
 - Protected Routes    
-- Secure Password Hashing  
+- Secure Password Hashing   
   
 ---
   
