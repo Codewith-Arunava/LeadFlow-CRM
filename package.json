@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "MERN Stack CRM for BDA",  
   "scripts": {           
-    "start": "node server/server.js",         
+    "start": "node server/server.js",          
     "server": "node server/server.js",                   
     "client": "npm run dev --prefix client",        
     "dev": "concurrently \"npm run server\" \"npm run client\""      
