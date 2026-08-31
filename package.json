@@ -1,6 +1,6 @@
  {
   "name": "leadflow-crm",  
-  "version": "1.0.0", 
+  "version": "1.0.0",  
   "description": "MERN Stack CRM for BDA",  
   "scripts": {              
     "start": "node server/server.js",           
