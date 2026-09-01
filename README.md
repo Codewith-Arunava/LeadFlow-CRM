@@ -17,7 +17,7 @@ The platform helps organizations efficiently track lead pipelines, manage client
 - Protected Routes    
 - Secure Password Hashing     
   
----
+---  
   
 ## 📊 Dashboard
 - Total Leads Overview 
