@@ -8,7 +8,7 @@
     "client": "npm run dev --prefix client",         
     "dev": "concurrently \"npm run server\" \"npm run client\""       
   },       
-  "dependencies": {
+  "dependencies": { 
     "concurrently": "^9.1.2"   
   }  
 }
